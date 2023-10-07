@@ -1,0 +1,37 @@
+.card {
+max-width: 540px;
+}
+
+
+
+
+.card-price {
+    margin: 0;
+    font-weight: bold;
+}
+
+/* .button-add {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-add:hover {
+    background-color: #45a049;
+}
+
+.button-remove {
+    background-color: #af4c4c;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-remove:hover {
+    background-color: #ec2323;
+} */
